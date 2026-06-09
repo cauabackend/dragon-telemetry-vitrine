@@ -1,0 +1,12 @@
+[
+  { "id": 1, "temperatura": 25.3, "pressao": 102.1, "velocidade": 7800, "status": "Normal" },
+  { "id": 2, "temperatura": 82.3, "pressao": 101.9, "velocidade": 7895, "status": "Critico" },
+  { "id": 3, "temperatura": 30.1, "pressao": 99.5, "velocidade": 7780, "status": "Normal" },
+  { "id": 4, "temperatura": 75.2, "pressao": 104.0, "velocidade": 7910, "status": "Alerta" },
+  { "id": 5, "temperatura": 28.7, "pressao": 88.4, "velocidade": 7825, "status": "Alerta" },
+  { "id": 6, "temperatura": 33.5, "pressao": 100.2, "velocidade": 8120, "status": "Alerta" },
+  { "id": 7, "temperatura": 26.9, "pressao": 101.5, "velocidade": 7760, "status": "Normal" },
+  { "id": 8, "temperatura": 85.6, "pressao": 103.2, "velocidade": 7990, "status": "Critico" },
+  { "id": 9, "temperatura": 41.2, "pressao": 97.8, "velocidade": 7705, "status": "Normal" },
+  { "id": 10, "temperatura": 29.4, "pressao": 106.7, "velocidade": 7840, "status": "Alerta" }
+]
