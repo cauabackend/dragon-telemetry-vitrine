@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "titulo": "Código do Front-End",
+    "disciplina": "Front-End Design",
+    "descricao": "Repositório da vitrine original em HTML/CSS/JS do Dragon Telemetry.",
+    "tipo": "github",
+    "url": "https://github.com/RenanSantos0/dragon-telemetry"
+  },
+  {
+    "id": 2,
+    "titulo": "Sistema Embarcado (ESP32)",
+    "disciplina": "Edge Computing",
+    "descricao": "Firmware e arquitetura do sistema de telemetria com MQTT.",
+    "tipo": "github",
+    "url": "https://github.com/Estevo00/Dragon-Telemetry-System---Edge-Computing-Computer-Systems"
+  },
+  {
+    "id": 3,
+    "titulo": "Simulação do Hardware (Wokwi)",
+    "disciplina": "Edge Computing",
+    "descricao": "Circuito ESP32 + sensores e atuadores rodando no simulador Wokwi.",
+    "tipo": "simulacao",
+    "url": "https://wokwi.com/projects/465937213607910401"
+  },
+  {
+    "id": 4,
+    "titulo": "Protótipo em Python",
+    "disciplina": "Computational Thinking",
+    "descricao": "Lógica de detecção de anomalias e relatórios da missão.",
+    "tipo": "github",
+    "url": "PASTE_PYTHON_REPO_LINK_HERE"
+  }
+]
