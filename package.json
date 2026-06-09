@@ -1,0 +1,21 @@
+{
+  "name": "web-vitrine-gs2",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Dragon Telemetry - Vitrine + Dashboard ao vivo (FIAP Global Solution 2026)",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^6.30.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.4",
+    "vite": "^5.4.11"
+  }
+}
