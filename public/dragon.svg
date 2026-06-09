@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <rect width="64" height="64" rx="14" fill="#0f1419"/>
+  <!-- Cápsula / foguete estilizado -->
+  <path d="M32 8c7 6 10 14 10 24 0 5-1 9-3 13l-7-5-7 5c-2-4-3-8-3-13 0-10 3-18 10-24z" fill="#00d4ff"/>
+  <circle cx="32" cy="26" r="5" fill="#0f1419"/>
+  <circle cx="32" cy="26" r="2.4" fill="#00d4ff"/>
+  <path d="M22 44l-6 6 8-2zM42 44l6 6-8-2z" fill="#ffb300"/>
+  <path d="M29 50h6l-3 8z" fill="#ff4d4d"/>
+</svg>
