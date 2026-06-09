@@ -49,8 +49,8 @@ npm run preview    # pré-visualiza a build localmente
 
 ## 🚀 Deploy
 
-- **Link do deploy (Vercel):** `PASTE_VERCEL_LINK_HERE`
-- **Repositório (GitHub):** `PASTE_GITHUB_LINK_HERE`
+- **Link do deploy (Vercel):** https://dragon-telemetry-vitrine.vercel.app/
+- **Repositório (GitHub):** https://github.com/cauabackend/dragon-telemetry-vitrine
 
 ### Observação sobre rotas no deploy
 
