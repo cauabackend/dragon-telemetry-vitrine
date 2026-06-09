@@ -1,0 +1,17 @@
+# Dependências (NÃO enviar para o repositório)
+node_modules
+
+# Build de produção
+dist
+dist-ssr
+
+# Logs
+*.log
+npm-debug.log*
+
+# Arquivos locais / editor
+*.local
+.DS_Store
+.vscode/*
+!.vscode/extensions.json
+.idea
